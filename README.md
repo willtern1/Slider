@@ -1,1 +1,3 @@
-# Slider
+#
+## Slider
+### HTML, CSS, JS
