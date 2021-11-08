@@ -1,3 +1,6 @@
 # https://willtern1.github.io/Slider/
 ## Slider
-### HTML, CSS, JS
+
+### Стек: HTML, CSS, JS
+
+#### Сладйер, фотографий замков Европы.
